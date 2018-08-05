@@ -1,0 +1,24 @@
+body {
+  font-family: helvetica;
+  text-align: center;
+}
+
+.backgroundbuilding {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  color: white;
+}
+
+.abc {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.def {
+  font-size: 14px;
+}
+
+#footer {
+  text-align: left;
+    background-color: dimgray;
+    color: white;
+}
